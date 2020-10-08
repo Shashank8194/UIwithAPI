@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f23e676-e8e7-4ad0-a74d-9950c1462c55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iaeRDhiitBiOeAh9z8rcQ2v91F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rishi\IdeaProjects\UIwithAPI\src\test" />
+      <recent name="C:\Users\Rishi\IdeaProjects\UIwithAPI\src\test\java" />
+      <recent name="C:\Users\Rishi\IdeaProjects\UIwithAPI\src\main\java" />
+      <recent name="C:\Users\Rishi\IdeaProjects\UIwithAPI\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/Users/Rishi/IdeaProjects/UIwithAPI/testng.xml" type="TestNG" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value=" -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f23e676-e8e7-4ad0-a74d-9950c1462c55" name="Default Changelist" comment="" />
+      <created>1602150119524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602150119524</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="0" width="596" height="728" key="#C:/Users/Rishi/IdeaProjects/UIwithAPI/testng.xml" timestamp="1602150413482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" width="596" height="728" key="#C:/Users/Rishi/IdeaProjects/UIwithAPI/testng.xml/0.0.1366.728@0.0.1366.728" timestamp="1602150413482" />
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602150717657">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602150717657" />
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom" timestamp="1602150723307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602150723307" />
+    <state width="1306" height="169" key="GridCell.Tab.0.center" timestamp="1602150723307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602150723307" />
+    <state width="1306" height="169" key="GridCell.Tab.0.left" timestamp="1602150723299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602150723299" />
+    <state width="1306" height="169" key="GridCell.Tab.0.right" timestamp="1602150723307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602150723307" />
+  </component>
+</project>
