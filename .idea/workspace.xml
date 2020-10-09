@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f23e676-e8e7-4ad0-a74d-9950c1462c55" name="Default Changelist" comment="" />
+    <list default="true" id="4f23e676-e8e7-4ad0-a74d-9950c1462c55" name="Default Changelist" comment="Parallel Execution and Grouping Changes">
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/Listners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,17 +40,38 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rishi\IdeaProjects\UIwithAPI" />
       <recent name="C:\Users\Rishi\IdeaProjects\UIwithAPI\src\test" />
       <recent name="C:\Users\Rishi\IdeaProjects\UIwithAPI\src\test\java" />
       <recent name="C:\Users\Rishi\IdeaProjects\UIwithAPI\src\main\java" />
       <recent name="C:\Users\Rishi\IdeaProjects\UIwithAPI\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Users/Rishi/IdeaProjects/UIwithAPI/testng.xml">
+    <configuration name="C:/Users/Rishi/IdeaProjects/UIwithAPI/groups.xml" type="TestNG" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/groups.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value=" -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/Rishi/IdeaProjects/UIwithAPI/testng.xml" type="TestNG" nameIsGenerated="true">
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="PACKAGE_NAME" value="" />
@@ -57,6 +92,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/Rishi/IdeaProjects/UIwithAPI/groups.xml" />
+      <item itemvalue="TestNG.C:/Users/Rishi/IdeaProjects/UIwithAPI/testng.xml" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -71,30 +110,46 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Parallel Execution and Grouping Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parallel Execution and Grouping Changes" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="0" width="596" height="728" key="#C:/Users/Rishi/IdeaProjects/UIwithAPI/groups.xml" timestamp="1602247209392">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" width="596" height="728" key="#C:/Users/Rishi/IdeaProjects/UIwithAPI/groups.xml/0.0.1366.728@0.0.1366.728" timestamp="1602247209392" />
     <state x="392" y="0" width="596" height="728" key="#C:/Users/Rishi/IdeaProjects/UIwithAPI/testng.xml" timestamp="1602150413482">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="0" width="596" height="728" key="#C:/Users/Rishi/IdeaProjects/UIwithAPI/testng.xml/0.0.1366.728@0.0.1366.728" timestamp="1602150413482" />
-    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602150717657">
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602247258606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602150717657" />
-    <state width="1306" height="169" key="GridCell.Tab.0.bottom" timestamp="1602150723307">
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602247258606" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1602247694942">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602150723307" />
-    <state width="1306" height="169" key="GridCell.Tab.0.center" timestamp="1602150723307">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602247694942" />
+    <state width="1322" height="511" key="GridCell.Tab.0.bottom" timestamp="1602247721520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602150723307" />
-    <state width="1306" height="169" key="GridCell.Tab.0.left" timestamp="1602150723299">
+    <state width="1322" height="511" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602247721520" />
+    <state width="1322" height="511" key="GridCell.Tab.0.center" timestamp="1602247721520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602150723299" />
-    <state width="1306" height="169" key="GridCell.Tab.0.right" timestamp="1602150723307">
+    <state width="1322" height="511" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602247721520" />
+    <state width="1322" height="511" key="GridCell.Tab.0.left" timestamp="1602247721520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602150723307" />
+    <state width="1322" height="511" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602247721520" />
+    <state width="1322" height="511" key="GridCell.Tab.0.right" timestamp="1602247721520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="511" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602247721520" />
+    <state x="379" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1602244002135">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602244002135" />
   </component>
 </project>

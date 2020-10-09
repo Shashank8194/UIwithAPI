@@ -6,7 +6,8 @@ import pageObjects.initializePageObjects.pageFactoryInitialization;
 
 public class TestRunner extends pageFactoryInitialization {
 
-   @Test(dataProvider = "excelSheetNameAsMethodName", dataProviderClass = ExcelDataProvider.class, enabled = true)
+   @Test(dataProvider = "excelSheetNameAsMethodName", dataProviderClass = ExcelDataProvider.class, enabled = true ,
+        groups={"WEB"})
 public void testNDTV(String CityName) throws InterruptedException {
 
    homePage().dismisspopup();
@@ -17,7 +18,7 @@ public void testNDTV(String CityName) throws InterruptedException {
    weatherPage().weatherinfo();
 }
 
-@Test
+@Test(groups = {"API"})
 public void apiNDTV()
 {
    fetchCityWeather fetch= new fetchCityWeather();

@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/Rishi/IdeaProjects/UIwithAPI">
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="methods" thread-count="2">
+<listeners>
+    <listener class-name="test.Listners">
+
+    </listener>
+</listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/Rishi/IdeaProjects/UIwithAPI" >
+
+      <!--  <groups>
+            <run>
+                <include name="WEB">
+                </include>
+            </run>
+        </groups>-->
         <classes>
+
             <class name="test.TestRunner">
+
             <methods>
                 <include name="testNDTV"/>
+
                 <include name="apiNDTV"/>
             </methods></class></classes></test></suite>
