@@ -8,12 +8,6 @@
 </listeners>
     <test verbose="2" preserve-order="true" name="C:/Users/Rishi/IdeaProjects/UIwithAPI" >
 
-      <!--  <groups>
-            <run>
-                <include name="WEB">
-                </include>
-            </run>
-        </groups>-->
         <classes>
 
             <class name="test.TestRunner">

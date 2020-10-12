@@ -18,7 +18,7 @@ public void testNDTV(String CityName) throws InterruptedException {
    weatherPage().weatherinfo();
 }
 
-@Test(groups = {"API"})
+@Test(groups = {"API"}, expectedExceptions = ArithmeticException.class )
 public void apiNDTV()
 {
    fetchCityWeather fetch= new fetchCityWeather();
